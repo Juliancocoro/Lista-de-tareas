@@ -25,7 +25,7 @@ Ejecuta las migraciones:
 dotnet ef database update
 ```
 
-### 3. Ejecutar la aplicación
+Ejecucion
 ```bash
 dotnet run
 ```
